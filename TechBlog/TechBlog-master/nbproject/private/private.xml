@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/KRISH%20BHARDWAJ/Desktop/TechBlog/TechBlog-master/web/normal_navbar.jsp</file>
+            <file>file:/C:/Users/KRISH%20BHARDWAJ/Desktop/TechBlog/TechBlog-master/web/index.jsp</file>
+            <file>file:/C:/Users/KRISH%20BHARDWAJ/Desktop/TechBlog/TechBlog-master/src/java/com/tech/blog/dao/UserDao.java</file>
+            <file>file:/C:/Users/KRISH%20BHARDWAJ/Desktop/TechBlog/TechBlog-master/src/java/com/tech/blog/servlets/RegisterServlet.java</file>
+            <file>file:/C:/Users/KRISH%20BHARDWAJ/Desktop/TechBlog/TechBlog-master/src/java/com/tech/blog/helper/ConnectionProvider.java</file>
+            <file>file:/C:/Users/KRISH%20BHARDWAJ/Desktop/TechBlog/TechBlog-master/web/login_page.jsp</file>
+            <file>file:/C:/Users/KRISH%20BHARDWAJ/Desktop/TechBlog/TechBlog-master/src/java/com/tech/blog/servlets/LoginServlet.java</file>
+            <file>file:/C:/Users/KRISH%20BHARDWAJ/Desktop/TechBlog/TechBlog-master/web/css/mystyle.css</file>
+            <file>file:/C:/Users/KRISH%20BHARDWAJ/Desktop/TechBlog/TechBlog-master/web/profile.jsp</file>
+            <file>file:/C:/Users/KRISH%20BHARDWAJ/Desktop/TechBlog/TechBlog-master/src/java/com/tech/blog/dao/PostDao.java</file>
+            <file>file:/C:/Users/KRISH%20BHARDWAJ/Desktop/TechBlog/TechBlog-master/web/load_posts.jsp</file>
+            <file>file:/C:/Users/KRISH%20BHARDWAJ/Desktop/TechBlog/TechBlog-master/src/java/com/tech/blog/servlets/AddPostServlet.java</file>
+            <file>file:/C:/Users/KRISH%20BHARDWAJ/Desktop/TechBlog/TechBlog-master/src/java/com/tech/blog/servlets/EditServlet.java</file>
+            <file>file:/C:/Users/KRISH%20BHARDWAJ/Desktop/TechBlog/TechBlog-master/src/java/com/tech/blog/servlets/LogoutServlet.java</file>
+            <file>file:/C:/Users/KRISH%20BHARDWAJ/Desktop/TechBlog/TechBlog-master/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/KRISH%20BHARDWAJ/Desktop/TechBlog/TechBlog-master/web/register_page.jsp</file>
+        </group>
+    </open-files>
+</project-private>
